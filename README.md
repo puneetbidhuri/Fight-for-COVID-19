@@ -48,9 +48,9 @@ Lets all come together and fight this together. We got this !
 
 <img src="6.jpg"  height="75%"  width="75%">
 <br><br><br>
-<h3>software used</h3>
+<h3>software used</h3><br>
 1.virtual studio
-<h3>language used</h3>
-1.HTML
-2.CSS
-3.JS
+<h3>language used</h3><br>
+1.HTML<br>
+2.CSS<br>
+3.JS<br>
