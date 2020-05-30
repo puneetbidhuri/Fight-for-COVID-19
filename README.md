@@ -22,13 +22,13 @@ Lets all come together and fight this together. We got this !
 
 
 
-<img src="2.jpg" height="75" width="75">
+<img src="2.jpg" height="75%" width="75%">
 <br><br>
 
 
 
 
-<img src="3.jpg" height="75" width="75">
+<img src="3.jpg" height="75%" width="75%"
 <br><br>
 
 
