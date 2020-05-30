@@ -8,34 +8,34 @@ Lets all come together and fight this together. We got this !
 
 <h2>screenshots</h2 >
 
-<img src="1.jpg" height="60%" width="60%">
+<img src="1.jpg" height="75%" width="75%">
 <br><br>
 
 
 
 
-<img src="2.jpg" height="60%" width="60%">
+<img src="2.jpg" height="75" width="75>
 <br><br>
 
 
 
 
-<img src="3.jpg" height="60%" width="60%">
+<img src="3.jpg" height="75 width="75
 <br><br>
 
 
 
-<img src="4.jpg" height="60%" width="60%">
-<br><br>
-
-
-
-
-
-<img src="5.jpg" height="60%" width="60%">
+<img src="4.jpg" height="75%"  width="75%">
 <br><br>
 
 
 
 
-<img src="6.jpg" height="60%" width="60%">
+
+<img src="5.jpg" height="75%"  width="75%">
+<br><br>
+
+
+
+
+<img src="6.jpg"  height="75%"  width="75%">
