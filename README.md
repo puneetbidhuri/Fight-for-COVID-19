@@ -47,3 +47,10 @@ Lets all come together and fight this together. We got this !
 
 
 <img src="6.jpg"  height="75%"  width="75%">
+<br><br><br>
+<h3>software used</h3>
+1.virtual studio
+<h3>language used</h3>
+1.HTML
+2.CSS
+3.JS
