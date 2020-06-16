@@ -244,6 +244,8 @@ figure {
   padding-bottom: 2px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
+.fh5co-cover .desc h3 strong {
+  font-weight: 700;
 
 /* Superfish Override Menu */
 .sf-menu {
